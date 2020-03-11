@@ -23,13 +23,12 @@ export default {
   ** Global CSS
   */
   css: [
-    'ant-design-vue/dist/antd.css'
+    '@/plugins/one.css'
   ],
   /*
   ** Plugins to load before mounting the App
   */
   plugins: [
-    '@/plugins/antd-ui'
   ],
   /*
   ** Nuxt.js dev-modules
