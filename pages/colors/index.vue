@@ -1,7 +1,7 @@
 <template>
   <div>
     <div class="main-color-page color-main2-bg">
-      <div class="title">Picking Colors</div>
+      <div class="title one-animate-zoom">Picking Colors</div>
     </div>
     <div class="colors one-container">
       <div class="colors-title color-main2 one-card">

@@ -2,6 +2,7 @@
   <div>
 <div class="one-sidebar one-bar-block one-card one-animate-right color-main2-bg" style="display:none;right:0;width:20rem" id="rightMenu">
   <button @click="closeRightMenu()" class="one-bar-item one-button one-xxxlarge" style="text-align:right;color:#FFF">&times;</button>
+  <nuxt-link to="/" class="nuxt-link one-bar-item one-button">Home</nuxt-link>
   <nuxt-link to="/colors" class="nuxt-link one-bar-item one-button">Colors</nuxt-link>
   <nuxt-link to="/fonts" class="nuxt-link one-bar-item one-button">Fonts</nuxt-link>
 </div>
